@@ -190,3 +190,4 @@ PrefabBufferGeometry.prototype.setPrefabData = function(attribute, prefabIndex, 
 };
 
 export { PrefabBufferGeometry };
+
